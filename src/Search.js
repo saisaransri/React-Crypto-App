@@ -3,7 +3,7 @@ import React from "react";
 const Search = () =>{
     return(
         <>
-        search saran
+        search saran 
         </>
     )
 }
